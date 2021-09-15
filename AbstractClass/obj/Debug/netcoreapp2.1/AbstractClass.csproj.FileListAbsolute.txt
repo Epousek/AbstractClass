@@ -1,0 +1,11 @@
+Z:\PVA\MVOP\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.deps.json
+Z:\PVA\MVOP\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.runtimeconfig.json
+Z:\PVA\MVOP\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.runtimeconfig.dev.json
+Z:\PVA\MVOP\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.dll
+Z:\PVA\MVOP\AbstractClass\AbstractClass\bin\Debug\netcoreapp2.1\AbstractClass.pdb
+Z:\PVA\MVOP\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.csprojAssemblyReference.cache
+Z:\PVA\MVOP\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.csproj.CoreCompileInputs.cache
+Z:\PVA\MVOP\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.AssemblyInfoInputs.cache
+Z:\PVA\MVOP\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.AssemblyInfo.cs
+Z:\PVA\MVOP\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.dll
+Z:\PVA\MVOP\AbstractClass\AbstractClass\obj\Debug\netcoreapp2.1\AbstractClass.pdb
